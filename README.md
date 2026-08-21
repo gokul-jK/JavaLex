@@ -1,2 +1,2 @@
-# Java-lex
+# Java lex
 Learning Java from Lex
